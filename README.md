@@ -9,5 +9,5 @@ My research interests are quite broad. I am interested in plant biodiversity, es
 In my free time, I love hiking, painting, taking photos (not for myself, but plants/animals/nature/architecture) and food...
 
 ## Photo gallery
-![/images/flowers.JPG](/images/flowers.JPG)
+![/images/flowers.JPG](/images/flowers.JPG|width=100)
 _Calycanthus chinensis_ in Tianmu Mountain, Hangzhou, China
