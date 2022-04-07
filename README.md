@@ -10,8 +10,5 @@ In my free time, I love hiking, painting, taking photos (not for myself, but pla
 
 ## Photo gallery
 <img src="/images/flowers.JPG" width="300">
-_Calycanthus chinensis_ in Tianmu Mountain, Hangzhou, China\
+_Calycanthus chinensis_ in Tianmu Mountain, Hangzhou, China
 
-
-
-<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/yuemeanshappy/photogram_yue/main/cranolopha_dng.ply$camera=3.64484,16.57190,0.53469,2.23160,3.91229,-13.05984,0.00000,1.00000,0.00000$envsettings=fishermans_bastion,off$backgroundcolor=255,255,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe>
